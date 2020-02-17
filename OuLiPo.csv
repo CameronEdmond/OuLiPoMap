@@ -1,42 +1,42 @@
-﻿Name,Year Joined,Excused from,Nationality,Alive,Founding Member
-Noël Arnaud,1960,2003,French,No,Yes
-Michèle Audin,2009,,French,Yes,No
-Valérie Beaudouin,2003,,French,Yes,No
-Marcel Bénabou,1970,,French,Yes,No
-Jacques Bens,1960,2001,French,No,Yes
-Claude Berge,1960,2002,French,No,Yes
-Eduardo Berti,2014,,Argentinian,Yes,No
-André Blavier,1961,2001,Belgian,No,???
-Paul Braffort,1961,,French,Yes,No
-Italo Calvino,1974,1985,Italian,No,No
-François Caradec,1983,2008,French,Yes,No
-Bernard Cerquiglini,1995,,French,Yes,No
-Ross Chambers,1961,2017,Australia,No,No
-Stanley Chapman,1961,2009,British,No,No
-Marcel Duchamp,1962,1968,French-American,No,No
-Jacques Duchateau,1960,2017,French,No,Yes
-Luc Etienne,1970,1984,French,No,No
-Frédéric Forte,2005,,French,Yes,No
-Paul Fournel,1972,,French,Yes,No
-Anne F. Garréta,2000,,French,Yes,No
-Michelle Grangaud,1995,,Algerian,Yes,No
-Jacques Jouet,1983,,French,Yes,No
-Latis,1960,1973,French,No,Yes
-François Le Lionnais,1960,1984,French,No,Yes
-Hervé Le Tellier,1992,,French,Yes,No
-Étienne Lécroart,2012,,French,Yes,No
-Jean Lescure,1960,2005,French,No,Yes
-Daniel Levin Becker,2009,,American,Yes,No
-Pablo Martín Sánchez,2014,,Spanish,Yes,No
-Harry Mathews,1973,2017,American,No,No
-Clémentine Mélois,2017,,French,Yes,No
-Michèle Métail,1975,,French,Yes,No
-Ian Monk,1998,,British,Yes,No
-Oskar Pastior,1992,2006,German,No,No
-Georges Perec,1967,1982,French,No,No
-Raymond Queneau,1960,1976,French,No,Yes
-Jean Queval,1960,1990,French,No,Yes
-Pierre Rosenstiehl,1992,,French,Yes,No
-Jacques Roubaud,1966,,French,Yes,No
-Olivier Salon,2000,,French,Yes,No
-Albert-Marie Schmidt,1960,1966,French,No,Yes
+﻿Name,Year Joined,Year permenently excused,Position,Nationality,Alive,Founding Member,Gender
+Noël Arnaud,1960,2003,President (1984-2003),French,No,Yes,Male
+Jacques Bens,1960,2001,Member,French,No,Yes,Male
+Latis,1960,1973,Member,French,No,Yes,Male
+François Le Lionnais,1960,1984,Presidential founder,French,No,Yes,Male
+Jean Lescure,1960,2005,Member,French,No,Yes,Male
+Raymond Queneau,1960,1976,Co-Founder,French,No,Yes,Male
+Jean Queval,1960,1990,Member,French,No,Yes,Male
+Albert-Marie Schmidt,1960,1966,Member,French,No,Yes,Male
+Claude Berge,1960,2002,Member,French,No,Yes,Male
+Jacques Duchateau,1960,2017,Member,French,No,Yes,Male
+André Blavier,1961,2001,Foreign correspondant,Belgian,No,No,Male
+Paul Braffort,1961,,Member,French,Yes,No,Male
+Ross Chambers,1961,2017,Member,Australia,No,No,Male
+Stanley Chapman,1961,2009,Member,British,No,No,Male
+Marcel Duchamp,1962,1968,Member,French-American,No,No,Male
+Jacques Roubaud,1966,,Member,French,Yes,No,Male
+Georges Perec,1967,1982,Member,French,No,No,Male
+Marcel Bénabou,1970,,Secretary (1971-),French,Yes,No,Male
+Luc Etienne,1970,1984,Member,French,No,No,Male
+Paul Fournel,1972,,President (2003-),French,Yes,No,Male
+Harry Mathews,1973,2017,Member,American,No,No,Male
+Italo Calvino,1974,1985,Member,Italian,No,No,Male
+Michèle Métail,1975,,Member,French,Yes,No,Female
+François Caradec,1983,2008,Member,French,Yes,No,Male
+Jacques Jouet,1983,,Member,French,Yes,No,Male
+Hervé Le Tellier,1992,,Member,French,Yes,No,Male
+Oskar Pastior,1992,2006,Member,German,No,No,Male
+Pierre Rosenstiehl,1992,,Member,French,Yes,No,Male
+Michelle Grangaud,1995,,Member,Algerian,Yes,No,Female
+Bernard Cerquiglini,1995,,Member,French,Yes,No,Male
+Ian Monk,1998,,Member,British,Yes,No,Male
+Anne F. Garréta,2000,,Member,French,Yes,No,Female
+Olivier Salon,2000,,Member,French,Yes,No,Male
+Valérie Beaudouin,2003,,Member,French,Yes,No,Female
+Frédéric Forte,2005,,Member,French,Yes,No,Male
+Michèle Audin,2009,,Member,French,Yes,No,Female
+Daniel Levin Becker,2009,,Member,American,Yes,No,Male
+Étienne Lécroart,2012,,Member,French,Yes,No,Male
+Eduardo Berti,2014,,Member,Argentinian,Yes,No,Male
+Pablo Martín Sánchez,2014,,Member,Spanish,Yes,No,Male
+Clémentine Mélois,2017,,Member,French,Yes,No,Female
