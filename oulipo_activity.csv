@@ -36,7 +36,7 @@ Piccolo Sillabario Illustratro,Italo Calvino,1978,Male,8
 Meet François,Jacques Bens,1978,Male,7
 Princess Hoppy or The Labrador Tale. Chapter 2 Blueberries and Beryl,Jacques Roubaud,1978,Male,6
 Memories of an Old Oulipian,Noel Arnaud,1978,Male,5
-A Raymond Queneau,OuLiPo/Collaboration,1978,None,4
+A Raymond Queneau,OuLiPo/Collaboration,1978,Collaboration,4
 My Hypertropes,Paul Braffort,1978,Male,3
 Moral elementary,Paul Fournel,1978,Male,2
 The Hôtel de Sens,Paul Fournel,1978,Male,1
@@ -45,7 +45,7 @@ If on a winter's night a traveler,Italo Calvino,1979,Male,1
 An aphorism can hide another,Marcel Bénabou,1980,Male,1
 Shrine with drawers,Jacques Duchateau,1981,Male,3
 Io and the Wolf,Jacques Roubaud,1981,Male,2
-The Cantatrice Sauve,OuLiPo/Collaboration,1981,None,1
+The Cantatrice Sauve,OuLiPo/Collaboration,1981,Collaboration,1
  Epithalams,Georges Perec,1982,Male,4
 How I wrote one of my books,Italo Calvino,1982,Male,3
 Portraits-Robots,Michèle Métail,1982,Female,2
@@ -85,8 +85,8 @@ Invisible libraries,Paul Braffort,1990,Male,2
 An oulipian evening,Harry Mathews,1992,Male,9
 Glose of the Countess of Die and Dido,Jacques Jouet,1992,Male,8
 Yesterday's trip,Jacques Roubaud,1992,Male,7
-Other elementary morals,OuLiPo/Collaboration,1992,None,6
-"S + 7, the return",OuLiPo/Collaboration,1992,None,5
+Other elementary morals,OuLiPo/Collaboration,1992,Collaboration,6
+"S + 7, the return",OuLiPo/Collaboration,1992,Collaboration,5
 Thirty-four brazzles,Paul Braffort,1992,Male,4
 Joined,Oskar Pastior,1992,Male,3
 Joined,Hervé Le Tellier,1992,Male,2
@@ -98,17 +98,17 @@ N-ines autrement dit Quenines (encore),Jacques Roubaud,1993,Male,5
 Theater crisis,Jacques Roubaud,1993,Male,4
 Go to Cézanne,Marcel Bénabou,1993,Male,3
 Gérard Genette and l'Oulipo,Noel Arnaud,1993,Male,2
-"N-ines, in other words Quenines",OuLiPo/Collaboration,1993,None,1
+"N-ines, in other words Quenines",OuLiPo/Collaboration,1993,Collaboration,1
 Who killed the Duke of Densmore?,Claude Berge,1994,Male,4
 . To the eye,Harry Mathews,1994,Male,3
 The cordon of Saint Francis,Jacques Duchateau,1994,Male,2
-Tram troll (Strasbourg tram),OuLiPo/Collaboration,1994,None,1
+Tram troll (Strasbourg tram),OuLiPo/Collaboration,1994,Collaboration,1
 Thousand Thoughts (first hundred),Hervé Le Tellier,1995,Male,8
 Monostication of La Fontaine,Jacques Jouet,1995,Male,7
 Anagram forms,Michelle Grangaud,1995,Female,6
 From a small hedge if possible beautiful to Regrets,Michelle Grangaud,1995,Female,5
 Spielregel Wildwuchs Translation (Ulceration Translations game rule),Oskar Pastior,1995,Male,4
-"Invisible libraries, always",OuLiPo/Collaboration,1995,None,3
+"Invisible libraries, always",OuLiPo/Collaboration,1995,Collaboration,3
 Joined,Bernard Cerquiglini,1995,Male,2
 Joined,Michelle Grangaud,1995,Female,1
 Down with Carmen!,Hervé Le Tellier,1996,Male,8
@@ -118,7 +118,7 @@ A closed room,Jacques Jouet,1996,Male,5
 Memory exercises,Jacques Jouet,1996,Male,4
 "The earth is flat, 99 dramatic but brief dialogues preceded by Small rumination of 150",Jacques Roubaud,1996,Male,3
 Three ruminations,Jacques Roubaud,1996,Male,2
-Paul's garland,OuLiPo/Collaboration,1996,None,1
+Paul's garland,OuLiPo/Collaboration,1996,Collaboration,1
 Raymond Queneau and the combinatorics,Claude Berge,1997,Male,13
 "A certain disparate (fragments), followed by a testimony by Jacques Roubaud",François Le Lionnais,1997,Male,12
 A chronogram for 1997,Harry Mathews,1997,Male,11
@@ -127,9 +127,9 @@ The wind of language,Hervé Le Tellier,1997,Male,10
 I forgot,Jacques Bens,1997,Male,8
 Pauline (polyne),Jacques Jouet,1997,Male,7
 The lost Hannibal,Marcel Bénabou,1997,Male,6
-"La Comédie Oulipienne, Program for the evening of Thursday, February 13, 1997",OuLiPo/Collaboration,1997,None,5
-Sex,OuLiPo/Collaboration,1997,None,4
-"Variations, Variations, Variationen",OuLiPo/Collaboration,1997,None,3
+"La Comédie Oulipienne, Program for the evening of Thursday, February 13, 1997",OuLiPo/Collaboration,1997,Collaboration,5
+Sex,OuLiPo/Collaboration,1997,Collaboration,4
+"Variations, Variations, Variationen",OuLiPo/Collaboration,1997,Collaboration,3
 Chu in dirty sea or polymorphic rumination,Paul Braffort,1997,Male,2
 Foyer-jardin théâtre,Paul Fournel,1997,Male,1
 Peripheral Paris followed by other little Parisian poems,François Caradec,1998,Male,7
@@ -137,7 +137,7 @@ Fractals,Ian Monk,1998,Male,6
 Frieze of the Paris metro,Jacques Jouet,1998,Male,5
 ha ha oh ah ah,Michelle Grangaud,1998,Female,4
 Oulipo fondu,Michelle Grangaud,1998,Female,3
-This is my cent (special God),OuLiPo/Collaboration,1998,None,2
+This is my cent (special God),OuLiPo/Collaboration,1998,Collaboration,2
 Joined,Ian Monk,1998,Male,1
 Saint Catherine,Harry Mathews,1999,Male,12
 Hitler's journey,Hervé Le Tellier,1999,Male,11
@@ -150,7 +150,7 @@ Redundancy,Jacques Jouet,1999,Male,5
 O baobab,Jacques Roubaud,1999,Male,4
 Altitude and depth,Marcel Bénabou,1999,Male,3
 A library by plane,Michelle Grangaud,1999,Female,2
-The crown of stèphe,OuLiPo/Collaboration,1999,None,1
+The crown of stèphe,OuLiPo/Collaboration,1999,Collaboration,1
 Joined,Olivier Salon,2000,Male,2
 Joined,Anne F. Garréta,2000,Female,1
 The Worm's Journey,François Caradec,2001,Male,6
@@ -160,13 +160,13 @@ The Journey of The Verse,Jacques Roubaud,2001,Male,3
 A divergent journey,Michelle Grangaud,2001,Female,2
 Five letters of credence,Paul Braffort,2001,Male,1
 I like to teach P-éton de Paris,François Caradec,2002,Male,3
-No two,OuLiPo/Collaboration,2002,None,2
-The origins of language,OuLiPo/Collaboration,2002,None,1
+No two,OuLiPo/Collaboration,2002,Collaboration,2
+The origins of language,OuLiPo/Collaboration,2002,Collaboration,1
 If for one night a winter trip,Jacques Jouet,2003,Male,6
 Long lives,Jacques Jouet,2003,Male,5
 Duchamp the Oulipian,Jacques Roubaud,2003,Male,4
-Brief dances and comedies in the little washhouse,OuLiPo/Collaboration,2003,None,3
-Doukipleudonktan?,OuLiPo/Collaboration,2003,None,2
+Brief dances and comedies in the little washhouse,OuLiPo/Collaboration,2003,Collaboration,3
+Doukipleudonktan?,OuLiPo/Collaboration,2003,Collaboration,2
 Joined,Valérie Beaudouin,2003,Female,1
 Monostic,Jacques Jouet,2004,Male,4
 "Small boxes, thin sonnets and other rigors",Jacques Jouet,2004,Male,3
@@ -175,8 +175,8 @@ People of legend,Olivier Salon,2004,Male,1
 Complain about past Thursdays,François Caradec,2005,Male,8
 The journey of dreams,Frédéric Forte,2005,Male,7
 Small supplement to Cratyle,Marcel Bénabou,2005,Male,6
-And God created the Baker's Wife,OuLiPo/Collaboration,2005,None,5
-Sardinosaurs & Co.,OuLiPo/Collaboration,2005,None,4
+And God created the Baker's Wife,OuLiPo/Collaboration,2005,Collaboration,5
+Sardinosaurs & Co.,OuLiPo/Collaboration,2005,Collaboration,4
  The first hours of the colony. Tale made of palaver trees,Paul Fournel,2005,Male,3
 The dwarf table extended by some consequences,Paul Fournel,2005,Male,2
 Joined,Frédéric Forte,2005,Male,1
@@ -185,11 +185,11 @@ Chinese tubes,Frédéric Forte,2006,Male,11
 Danaé (trentine),Jacques Jouet,2006,Male,10
 Hearts,Jacques Roubaud,2006,Male,9
 Monge's beat,Jacques Roubaud,2006,Male,8
-Chicagos,OuLiPo/Collaboration,2006,None,7
-circular n ° 31,OuLiPo/Collaboration,2006,None,6
-New requests,OuLiPo/Collaboration,2006,None,5
-Rats in the Library,OuLiPo/Collaboration,2006,None,4
-The end of time,OuLiPo/Collaboration,2006,None,3
+Chicagos,OuLiPo/Collaboration,2006,Collaboration,7
+circular n ° 31,OuLiPo/Collaboration,2006,Collaboration,6
+New requests,OuLiPo/Collaboration,2006,Collaboration,5
+Rats in the Library,OuLiPo/Collaboration,2006,Collaboration,4
+The end of time,OuLiPo/Collaboration,2006,Collaboration,3
  Novels,Paul Fournel,2006,Male,2
 Love animals,Paul Fournel,2006,Male,1
 N-amor,Anne F. Garréta,2007,Female,10
@@ -198,9 +198,9 @@ Oulipolets,Jacques Bens,2007,Male,9
 Rumination of the oulipian test,Jacques Jouet,2007,Male,7
 The journey of the Great Glass,Jacques Jouet,2007,Male,6
 Persian miniature,Marcel Bénabou,2007,Male,5
- Chronopoemes,OuLiPo/Collaboration,2007,None,4
-Do you remember... ?,OuLiPo/Collaboration,2007,None,3
-From a single letter ,OuLiPo/Collaboration,2007,None,2
+ Chronopoemes,OuLiPo/Collaboration,2007,Collaboration,4
+Do you remember... ?,OuLiPo/Collaboration,2007,Collaboration,3
+From a single letter ,OuLiPo/Collaboration,2007,Collaboration,2
 Terines,Paul Fournel,2007,Male,1
 The projections of the Dragon,Bernard Cerquiglini,2008,Male,8
 99 veiled poems,François Caradec,2008,Male,7
@@ -215,7 +215,7 @@ The queninization of yucca Towards a universal oulipisation of literature Volume
 A train crosses the day,Jacques Jouet,2009,Male,6
 Botulism and oulipism,Jacques Roubaud,2009,Male,5
  Vintages,Michelle Grangaud,2009,Female,4
-Self-portraits,OuLiPo/Collaboration,2009,None,3
+Self-portraits,OuLiPo/Collaboration,2009,Collaboration,3
 Joined,Daniel Levin Becker,2009,Male,2
 Joined,Michèle Audin,2009,Female,1
 99 preparatory notes to the preparatory notes,Frédéric Forte,2010,Male,8
@@ -236,7 +236,7 @@ One hundred and fifty neododecasyllabic couplets on various subjects,Jacques Rou
 The discreet journey ,Marcel Bénabou,2012,Male,6
 IV-R-16,Michèle Audin,2012,Female,5
 Urbanity of bivocalism,Olivier Salon,2012,Male,4
-Immigration explained to my grandmother and other texts,OuLiPo/Collaboration,2012,None,3
+Immigration explained to my grandmother and other texts,OuLiPo/Collaboration,2012,Collaboration,3
 Hébert's journey,Paul Fournel,2012,Male,2
 Joined,Étienne Lécroart,2012,Male,1
 A busy year,Bernard Cerquiglini,2013,Male,7
@@ -251,7 +251,7 @@ I remember,Jacques Jouet,2014,Male,7
 "Ruminations of the oulip workshop, improvisation and potential",Jacques Jouet,2014,Male,6
 The Truth About Winter Travel,Michèle Audin,2014,Female,5
 Monorime sonnets,Olivier Salon,2014,Male,4
-Cabinets of curiosities,OuLiPo/Collaboration,2014,None,3
+Cabinets of curiosities,OuLiPo/Collaboration,2014,Collaboration,3
 Joined,Eduardo Berti,2014,Male,2
 Joined,Pablo Martín Sánchez,2014,Male,1
 Ten-continuities,Eduardo Berti,2015,Male,11
@@ -261,14 +261,14 @@ Rhumbs,Frédéric Forte,2015,Male,10
 Old Coppée New,Jacques Roubaud,2015,Male,7
 "Our beautiful Zeroin, 1",Marcel Bénabou,2015,Male,6
 "+++, On the Augmentation by Georges Perec",Olivier Salon,2015,Male,5
-Other sewing,OuLiPo/Collaboration,2015,None,4
-The world of nonines,OuLiPo/Collaboration,2015,None,3
+Other sewing,OuLiPo/Collaboration,2015,Collaboration,4
+The world of nonines,OuLiPo/Collaboration,2015,Collaboration,3
 Northern line,Valérie Beaudouin,2015,Female,2
 Northern line,Valérie Beaudouin,2015,Female,1
 A summer in the countryside,Jacques Roubaud,2016,Male,4
 Around the world in 80 stanzas,Jacques Roubaud,2016,Male,3
 Anticipated plagiarism pastiche,Olivier Salon,2016,Male,2
-Great successes,OuLiPo/Collaboration,2016,None,1
+Great successes,OuLiPo/Collaboration,2016,Collaboration,1
 "Travel Disperses, Final Appendix",Eduardo Berti,2017,Male,3
 Mallarmé Pentacles,Frédéric Forte,2017,Male,2
 Joined,Clémentine Mélois,2017,Female,1
@@ -277,7 +277,7 @@ Fugues,Olivier Salon,2018,Male,3
 Two-way,Paul Fournel,2018,Male,1
 A question that comes up from afar,Eduardo Berti,2019,Male,6
 "Jiǎnpǔ system, first notes",Frédéric Forte,2019,Male,5
-Distiques Jiǎnpǔ,OuLiPo/Collaboration,2019,None,4
-I remember Harry Mathews,OuLiPo/Collaboration,2019,None,3
+Distiques Jiǎnpǔ,OuLiPo/Collaboration,2019,Collaboration,4
+I remember Harry Mathews,OuLiPo/Collaboration,2019,Collaboration,3
 Chicagos of the ages of life,Paul Fournel,2019,Male,2
 "Hypercube, matrix for exponential stories",Pierre Rosenstiehl,2019,Male,1
